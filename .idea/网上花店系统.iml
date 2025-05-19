@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/Flower" />
+        <option name="settingsModule" value="Flower/settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/Flower/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Flower" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Flower/.idea/dataSources" />
+      <excludeFolder url="file://$MODULE_DIR$/Flower/venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Flower/venv/Include" />
+      <excludeFolder url="file://$MODULE_DIR$/Flower/venv/Lib" />
+      <excludeFolder url="file://$MODULE_DIR$/Flower/venv/Scripts" />
+      <excludeFolder url="file://$MODULE_DIR$/flower_web/.idea" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.13 virtualenv at C:\Users\14814\Desktop\网上花店系统\Flower\venv" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="PyDocumentationSettings">
+    <option name="format" value="PLAIN" />
+    <option name="myDocStringFormat" value="Plain" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+  </component>
+</module>

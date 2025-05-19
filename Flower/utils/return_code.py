@@ -1,0 +1,5 @@
+# 验证错误
+VALIDATE_ERROR = 1001
+
+# 成功
+SUCCESS = 0
