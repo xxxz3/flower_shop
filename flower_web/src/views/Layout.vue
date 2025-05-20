@@ -53,7 +53,7 @@
                             <el-icon>
                                 <Reading/>
                             </el-icon>
-                            <span @click="goOrder">订单管理管理</span>
+                            <span @click="goOrder">订单管理</span>
                         </el-menu-item>
 
                     </el-menu>
